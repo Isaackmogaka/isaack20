@@ -44,7 +44,7 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/isaack-mogaka-41680a343" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/isaackmogaka" target="_blank">
