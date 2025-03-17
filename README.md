@@ -63,8 +63,7 @@
 ---
 
 ### **Next Steps:**
-- 🔧 Replace `your-profile` with your actual LinkedIn URL  
-- 🔗 Add your portfolio link once it's ready  
+
 
 Let me know if you want any tweaks! 🚀
 the
